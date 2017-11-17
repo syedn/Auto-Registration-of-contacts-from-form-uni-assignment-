@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+<reseacher>
+	<name>Prof. Dr. Jason Bourne</name>
+	<occupation>Professor</occupation>
+	<university>Identity University</university>
+	<university_location>Galway, Ireland</university_location>
+	<travelling>
+		<city>New York</city>
+		<flight_number>IC814</flight_number>
+		<drink>Chardonay</drink>
+		<conference>Computer based Medical Imaging.</conference>
+		<presenting>Smart Cameras for Smart Doctors.</presenting>
+	</travelling>
+</reseacher>
+<reseacher>
+	<name>PhD Don Vito Corleone</name>
+	<occupation>Post Doctoral</occupation>
+	<university>Sicilian University</university>
+	<university_location>Sicily, Italy</university_location>
+	<travelling>
+		<city>New York</city>
+		<flight_number>IC814</flight_number>
+		<drink>Sparkling water.</drink>
+		<conference>Computer based Medical Imaging.</conference>
+		<presenting>Eye tracking and detection of ALS.</presenting>
+	</travelling>
+</reseacher>
+<reseacher>
+	<name>Forrest Gump</name>
+	<occupation>PhD student</occupation>
+	<university>Bubba University</university>
+	<university_location>Texas, USA</university_location>
+	<travelling>
+		<city>New York</city>
+		<flight_number>IC814</flight_number>
+		<drink>Beer</drink>
+		<conference>Computer based Medical Imaging.</conference>
+		<presenting>Smart cameras to detect health hazards.</presenting>
+	</travelling>
+</reseacher>
+</container>
